@@ -1,18 +1,16 @@
-🌦️ Clima Agora
+🌦️ Zephyr.io
 
 Um aplicativo web simples e elegante para consultar o clima atual de cidades ao redor do mundo, utilizando a API gratuita e de código aberto Open-Meteo.
 
 📖 Sobre o Projeto
 
-Clima Agora é uma aplicação de página única (SPA) criada com HTML, CSS e JavaScript puros ("Vanilla JS"). O objetivo é fornecer uma forma rápida e visualmente agradável de obter informações meteorológicas, consumindo diretamente as APIs do Open-Meteo sem a necessidade de chaves ou bibliotecas externas.
+Zephyr.io é uma aplicação de página única (SPA) criada com HTML, CSS e JavaScript. O objetivo é fornecer uma forma rápida e visualmente agradável de obter informações meteorológicas, consumindo diretamente as APIs do Open-Meteo sem a necessidade de chaves ou bibliotecas externas.
 
 O design foi pensado para ser limpo e intuitivo, com um tema noturno que se adapta bem a diferentes dispositivos, desde desktops a smartphones.
 
 ✨ Funcionalidades
 
 Busca por Cidade: Encontre facilmente a previsão do tempo para qualquer cidade.
-
-Design Moderno: Interface com tema noturno "céu estrelado", com foco na legibilidade e experiência do usuário.
 
 Responsivo: Funciona perfeitamente em desktops, tablets e smartphones.
 
@@ -24,9 +22,9 @@ Busca via URL: Carregue o clima de uma cidade diretamente através de um link, u
 
 Este projeto é um único arquivo auto-contido. Para executá-lo, você só precisa de um navegador web.
 
-Faça o download do arquivo weather_app.html.
+Faça o download do projeto via GitHub.
 
-Abra o arquivo em seu navegador de preferência (Google Chrome, Firefox, etc.).
+Abra o arquivo index.html em seu navegador de preferência.
 
 Pronto! O aplicativo estará funcionando.
 
@@ -48,7 +46,7 @@ HTML5
 
 CSS3 (com Variáveis CSS para fácil customização do tema)
 
-JavaScript (ES6+) (Vanilla JS, sem frameworks)
+JavaScript (ES6+)
 
 Fetch API (para realizar as chamadas às APIs externas)
 
